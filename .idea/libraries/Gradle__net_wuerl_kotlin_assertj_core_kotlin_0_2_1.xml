@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.wuerl.kotlin:assertj-core-kotlin:0.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.wuerl.kotlin/assertj-core-kotlin/0.2.1/f483143119b5b7b756118865af26c0a2904b629f/assertj-core-kotlin-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.wuerl.kotlin/assertj-core-kotlin/0.2.1/9fef1f494af735f77a5ad781496d0ce8f594e2b2/assertj-core-kotlin-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
